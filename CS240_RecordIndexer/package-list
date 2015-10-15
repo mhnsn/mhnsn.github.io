@@ -1,0 +1,4 @@
+com.markdavidhansen.cs240.client.communicator
+com.markdavidhansen.cs240.server
+com.markdavidhansen.cs240.server.databaseaccess
+com.markdavidhansen.cs240.shared.model
