@@ -179,6 +179,13 @@ section h2 {
     font-size: 3em;
 }
 
+div.skills
+{
+	text-align: center;
+    font-size: 1.25em;
+    font-weight: 300;
+}
+
 section.success {
     color: #fff;
     background: #18bc9c;
